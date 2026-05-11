@@ -6,7 +6,7 @@
 <br><br>
 
 
-#  <p align="center"> 1- 🧠 [Machine Learning]() / [Main Repository]()
+#  <p align="center"> 1- 🧠 [Machine Learning]() / [Hub]()
 
 <p align="center">
 PUC-SP • 5th Semester • 2026<br>
